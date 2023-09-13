@@ -52,7 +52,7 @@ const Home = () => {
               <div className="row g-0">
                 <div className="col-md-4">
                   <img
-                    src="https://picsum.photos/200"
+                    src="https://picsum.photos/400"
                     className="img-fluid rounded-start"
                     alt="User"
                   />
